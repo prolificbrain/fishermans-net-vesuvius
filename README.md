@@ -1,10 +1,10 @@
 # 🎣 Fisherman's Net Volume Warping for Vesuvius Challenge
 
-## 🎬 **Algorithm Demonstration**
+## 🎬 **Meet the Creator**
 
-[**▶️ Watch the Algorithm in Action**](./Vesuvius.mp4)
+[**▶️ Personal Introduction by Ricardo**](https://youtu.be/YOUR_VIDEO_ID_HERE)
 
-*Ricardo explains the Fisherman's Net algorithm and demonstrates it working on real Vesuvius Challenge data*
+*Ricardo introduces himself and explains the vision behind the Fisherman's Net algorithm for the Vesuvius Challenge*
 
 ---
 
