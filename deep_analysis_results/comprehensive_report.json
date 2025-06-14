@@ -1,0 +1,105 @@
+{
+  "analysis_timestamp": "2025-06-14T18:25:12.871749",
+  "total_segments_processed": 4,
+  "algorithm_version": "Fisherman's Net v2.0 - Deep Analysis",
+  "segments": {
+    "20230518012543": {
+      "analysis": {
+        "segment_id": "20230518012543",
+        "critical_fibers": 11,
+        "max_deformation": 4.265003681182861,
+        "mean_deformation": 1.4375400496646762e-05,
+        "deformed_voxels": 2562,
+        "fiber_density": 0.005199991015594427,
+        "volume_std": 20050.9765625,
+        "config_used": "conservative",
+        "final_flatness": 0.00018037273548543453,
+        "final_strain": 421.1209411621094
+      },
+      "layer_range": [
+        0,
+        40
+      ],
+      "volume_shape": [
+        40,
+        827,
+        2611
+      ]
+    },
+    "20230518181521": {
+      "analysis": {
+        "segment_id": "20230518181521",
+        "critical_fibers": 11,
+        "max_deformation": 1.5481308698654175,
+        "mean_deformation": 1.0931630640698131e-05,
+        "deformed_voxels": 2385,
+        "fiber_density": 0.00605284251561279,
+        "volume_std": 16104.322265625,
+        "config_used": "conservative",
+        "final_flatness": 0.00010184275743085891,
+        "final_strain": 254.4853973388672
+      },
+      "layer_range": [
+        0,
+        40
+      ],
+      "volume_shape": [
+        40,
+        1959,
+        1217
+      ]
+    },
+    "20230521113334": {
+      "analysis": {
+        "segment_id": "20230521113334",
+        "critical_fibers": 13,
+        "max_deformation": 1.7723333835601807,
+        "mean_deformation": 3.351532768647303e-06,
+        "deformed_voxels": 2851,
+        "fiber_density": 0.004673985143095494,
+        "volume_std": 18642.931640625,
+        "config_used": "conservative",
+        "final_flatness": 0.00014273433771450073,
+        "final_strain": 300.7781066894531
+      },
+      "layer_range": [
+        0,
+        40
+      ],
+      "volume_shape": [
+        40,
+        2678,
+        3452
+      ]
+    },
+    "20230611145109": {
+      "analysis": {
+        "segment_id": "20230611145109",
+        "critical_fibers": 9,
+        "max_deformation": 1.3731540441513062,
+        "mean_deformation": 1.423749495188531e-06,
+        "deformed_voxels": 1871,
+        "fiber_density": 0.0029741343382203617,
+        "volume_std": 19049.423828125,
+        "config_used": "conservative",
+        "final_flatness": 0.00015004008309915662,
+        "final_strain": 157.61485290527344
+      },
+      "layer_range": [
+        0,
+        40
+      ],
+      "volume_shape": [
+        40,
+        3676,
+        3590
+      ]
+    }
+  },
+  "summary": {
+    "total_critical_fibers": 44,
+    "total_deformed_voxels": 9669,
+    "average_fiber_density": 0.004725238253130769,
+    "most_promising_segment": "20230521113334"
+  }
+}
