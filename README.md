@@ -1,9 +1,17 @@
 # 🎣 Fisherman's Net Volume Warping for Vesuvius Challenge
 
+## 🎬 **Algorithm Demonstration**
+
+[**▶️ Watch the Algorithm in Action**](./Vesuvius.mp4)
+
+*Ricardo explains the Fisherman's Net algorithm and demonstrates it working on real Vesuvius Challenge data*
+
+---
+
 [![Vesuvius Challenge](https://img.shields.io/badge/Vesuvius-Challenge-gold)](https://scrollprize.org/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://python.org)
 [![NumPy](https://img.shields.io/badge/NumPy-SciPy-green)](https://numpy.org)
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+[![License](https://img.shields.io/badge/License-FNAL-blue)](LICENSE)
 
 > *"Just as fishermen untangle their nets with patience and skill, we can untangle ancient scrolls with physics and algorithms."*
 
