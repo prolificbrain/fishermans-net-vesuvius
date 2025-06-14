@@ -2,7 +2,7 @@
 
 ## 🎬 **Meet the Creator**
 
-[**▶️ Personal Introduction by Ricardo**](https://youtu.be/YOUR_VIDEO_ID_HERE)
+[**▶️ Personal Introduction by Ricardo**](https://www.youtube.com/watch?v=9NY3vPWthV8)
 
 *Ricardo introduces himself and explains the vision behind the Fisherman's Net algorithm for the Vesuvius Challenge*
 
