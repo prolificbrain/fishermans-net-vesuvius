@@ -4,13 +4,13 @@
 
 > **🎉 INCREDIBLE NEWS!** Since our initial submission, we've achieved a **MASSIVE BREAKTHROUGH** in scroll analysis!
 >
-> **📊 NEW RESULTS**: Successfully processed **ALL 4 SCROLL SEGMENTS** with our enhanced deep analysis algorithm:
+> **📊 NEW RESULTS**: Successfully processed **4 available scroll segments** with our enhanced deep analysis algorithm:
 > - **🧬 4.3+ MILLION fiber points** detected across all segments
 > - **🎯 44 critical fiber pathways** identified for precise unwrapping
 > - **⚡ 9,669 voxels** successfully deformed with physics-based precision
 > - **🏆 Segment 20230521113334** identified as **MOST PROMISING** for ancient text discovery
 >
-> **🔬 This represents the most comprehensive physics-based scroll analysis ever performed!**
+> **🔬 This represents a significant step forward in physics-based scroll analysis!**
 >
 > [**📊 View Complete Deep Analysis Results**](#-breakthrough-deep-multi-segment-analysis)
 
@@ -88,7 +88,7 @@ python analyze_results.py
 
 ## 🚀 **BREAKTHROUGH: Deep Multi-Segment Analysis**
 
-### **Latest Results - All 4 Scroll Segments Processed**
+### **Latest Results - 4 Available Scroll Segments Processed**
 | Segment ID | Fiber Points | Critical Fibers | Max Deformation | Volume Size | Status |
 |------------|-------------|----------------|-----------------|-------------|---------|
 | **20230518012543** | 449,133 | 11 | 4.27 voxels | 329.5 MB | ✅ Complete |
@@ -105,7 +105,7 @@ python analyze_results.py
 
 ### **🔥 Why This Breakthrough Matters**
 
-1. **📈 Unprecedented Scale**: First algorithm to successfully process ALL available Vesuvius scroll segments with consistent results
+1. **📈 Comprehensive Analysis**: Successfully processed 4 available Vesuvius scroll segments with consistent, promising results
 
 2. **🧠 Adaptive Intelligence**: Algorithm automatically adapts to different scroll characteristics (high/low contrast, varying sizes)
 
